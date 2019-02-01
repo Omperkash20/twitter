@@ -1,0 +1,18 @@
+10:59:57:610 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
+10:59:58:357 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+10:59:58:391 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+10:59:58:391 INFO  [BaseTestSuite       ] - Attempting to use the latest available version for webdriver ChromeDriver.
+11:00:03:854 INFO  [ormLoginAndTweetTest] - INIT CLASS: PerformLoginAndTweetTest
+11:00:03:869 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+11:00:03:933 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+11:00:03:992 INFO  [Setup               ] - Initializing ChromeDriver
+11:00:14:154 INFO  [Setup               ] - Setting implicit wait to 0 milliseconds
+11:00:14:170 INFO  [BaseTestListener    ] - TEST STARTED: performLoginAndWriteTweet
+11:00:14:170 INFO  [ormLoginAndTweetTest] - It varifies that login page has loaded
+11:00:14:170 INFO  [ormLoginAndTweetTest] - Initializing Pages that would be used in Test
+11:00:14:990 DEBUG [Screenshot          ] - Took screenshot, elapsed time: 674.6 ms
+11:00:15:477 INFO  [BaseTestListener    ] - Appended screenshot with text '2019/01/28 - 11:00:15 - PASS:performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-01-28--11-00-14.jpg in 479.2 ms
+11:00:15:477 INFO  [BaseTestListener    ] - TEST PASSED: performLoginAndWriteTweet
+
+11:00:15:492 INFO  [ormLoginAndTweetTest] - CLOSING CHROMEDRIVER: performLoginAndWriteTweet
+11:00:18:230 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: Twitter

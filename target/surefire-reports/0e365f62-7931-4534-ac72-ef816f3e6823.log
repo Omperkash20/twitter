@@ -1,0 +1,29 @@
+13:32:16:173 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
+13:32:16:609 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+13:32:16:614 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+13:32:16:621 INFO  [BaseTestSuite       ] - Attempting to use the latest available version for webdriver ChromeDriver.
+13:32:18:697 INFO  [ormLoginAndTweetTest] - INIT CLASS: PerformLoginAndTweetTest
+13:32:18:697 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+13:32:18:697 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+13:32:18:713 INFO  [Setup               ] - Initializing ChromeDriver
+13:32:23:628 INFO  [Setup               ] - Setting implicit wait to 0 milliseconds
+13:32:25:226 INFO  [EventHandler        ] - Driver loaded URL: https://twitter.com/login
+13:32:25:227 INFO  [ormLoginAndTweetTest] - Navigate to twitter's login-page, the sleep function provied 1000 milli seconds to load the page
+13:32:30:291 INFO  [BaseTestListener    ] - TEST STARTED: performLoginAndWriteTweet
+13:32:30:306 INFO  [ormLoginAndTweetTest] - It varifies that login page has loaded
+13:32:30:306 INFO  [ormLoginAndTweetTest] - Initializing Pages that would be used in Test
+13:32:30:445 INFO  [LoginPage           ] - Verifying that the login page is loaded by visibility of login button
+13:32:30:460 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium
+13:32:30:576 TRACE [Presence            ] - Element was displayed within 5000 milliseconds
+13:32:30:576 INFO  [LoginPage           ] - The Login button is visible
+13:32:30:576 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .js-username-field.email-input.js-initial-focus
+13:32:31:248 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .js-password-field
+13:32:31:756 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium
+13:32:31:808 TRACE [Presence            ] - Element was clickable within 3000 milliseconds
+13:32:32:860 INFO  [EventHandler        ] - Driver clicked on element: [[ChromeDriver: chrome on XP (923940df955aea0ee6032b7e20534ccd)] -> css selector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]
+13:32:33:685 DEBUG [Screenshot          ] - Took screenshot, elapsed time: 733.2 ms
+13:32:33:969 INFO  [BaseTestListener    ] - Appended screenshot with text '2019/01/28 - 13:32:33 - PASS:performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-01-28--13-32-32.jpg in 288.6 ms
+13:32:33:969 INFO  [BaseTestListener    ] - TEST PASSED: performLoginAndWriteTweet
+
+13:32:33:969 INFO  [ormLoginAndTweetTest] - CLOSING CHROMEDRIVER: performLoginAndWriteTweet
+13:32:34:969 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: Twitter

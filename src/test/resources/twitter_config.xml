@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qaTestdata>
+
+    <qaProperties></qaProperties>
+
+    <qaEmails>
+        <qaEmail name="gmail" host="smtp.gmail.com" port="465" socketFactoryPort="465"
+        socketFactory="javax.net.ssl.SSLSocketFactory" auth="true" />
+    </qaEmails>
+
+    <qaUsers>
+        <qaUser id="exampleUser" pin="" role="" username="Soprasteria1" password="password1234" />
+    </qaUsers>
+
+    <qaWebDriverConfigurations>
+        <qaWebDriverConfiguration id="chromedriver" type="ChromeDriver" />
+    </qaWebDriverConfigurations>
+
+</qaTestdata>

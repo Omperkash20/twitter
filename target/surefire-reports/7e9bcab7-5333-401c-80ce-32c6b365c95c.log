@@ -1,0 +1,22 @@
+11:51:29:134 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
+11:51:29:765 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+11:51:29:765 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+11:51:29:765 INFO  [BaseTestSuite       ] - Attempting to use the latest available version for webdriver ChromeDriver.
+11:51:31:830 INFO  [ormLoginAndTweetTest] - INIT CLASS: PerformLoginAndTweetTest
+11:51:31:846 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+11:51:31:846 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+11:51:31:862 INFO  [Setup               ] - Initializing ChromeDriver
+11:51:36:805 INFO  [Setup               ] - Setting implicit wait to 0 milliseconds
+11:51:36:817 INFO  [BaseTestListener    ] - TEST STARTED: performLoginAndWriteTweet
+11:51:36:828 INFO  [ormLoginAndTweetTest] - It varifies that login page has loaded
+11:51:36:830 INFO  [ormLoginAndTweetTest] - Initializing Pages that would be used in Test
+11:51:37:198 INFO  [LoginPage           ] - Verifying that the login page is loaded by visibility of login button
+11:51:37:222 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButton--medium
+11:51:42:480 TRACE [Presence            ] - Element was not displayed within 5000 milliseconds
+11:51:42:480 INFO  [LoginPage           ] - The Login button is  not visible
+11:51:42:949 DEBUG [Screenshot          ] - Took screenshot, elapsed time: 413.4 ms
+11:51:43:265 INFO  [BaseTestListener    ] - Appended screenshot with text '2019/01/28 - 11:51:42 - FAIL: performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-01-28--11-51-42.jpg in 314.0 ms
+11:51:43:300 WARN  [BaseTestListener    ] - TEST FAILED: performLoginAndWriteTweet
+
+11:51:43:303 INFO  [ormLoginAndTweetTest] - CLOSING CHROMEDRIVER: performLoginAndWriteTweet
+11:51:44:054 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: Twitter

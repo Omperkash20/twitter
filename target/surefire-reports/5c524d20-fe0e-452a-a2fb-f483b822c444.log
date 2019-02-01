@@ -1,0 +1,10 @@
+10:20:45:021 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
+10:20:45:785 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+10:20:45:787 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+10:20:45:787 INFO  [BaseTestSuite       ] - Attempting to use the latest available version for webdriver ChromeDriver.
+10:21:50:432 WARN  [BaseTestSuite       ] - Running ChromeDriver with latest version instead, because  wasn't found.
+10:22:53:686 INFO  [ormLoginAndTweetTest] - INIT CLASS: PerformLoginAndTweetTest
+10:22:53:700 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+10:22:53:715 WARN  [BaseTestListener    ] - TEST FAILED: performLoginAndWriteTweet
+
+10:22:53:720 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: Twitter

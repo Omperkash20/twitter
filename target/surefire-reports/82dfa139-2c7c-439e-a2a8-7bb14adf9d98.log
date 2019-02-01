@@ -1,0 +1,13 @@
+10:37:23:972 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
+10:37:24:472 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+10:37:24:480 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+10:37:24:481 INFO  [BaseTestSuite       ] - Attempting to use the latest available version for webdriver ChromeDriver.
+10:38:29:182 WARN  [BaseTestSuite       ] - Running ChromeDriver with latest version instead, because  wasn't found.
+10:39:32:703 INFO  [ormLoginAndTweetTest] - INIT CLASS: PerformLoginAndTweetTest
+10:39:32:705 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+10:39:32:720 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+10:39:32:783 INFO  [Setup               ] - Initializing ChromeDriver
+10:39:33:000 ERROR [BaseTestListener    ] - EXCEPTION THROWN: java.lang.IllegalStateException: The path to the driver executable must be set by the webdriver.chrome.driver system property; for more information, see https://github.com/SeleniumHQ/selenium/wiki/ChromeDriver. The latest version can be downloaded from http://chromedriver.storage.googleapis.com/index.html
+10:39:33:001 WARN  [BaseTestListener    ] - TEST SKIPPED: performLoginAndWriteTweet
+
+10:39:33:005 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: Twitter

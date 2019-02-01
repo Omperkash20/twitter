@@ -1,0 +1,24 @@
+12:21:53:025 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
+12:21:53:583 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+12:21:53:583 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+12:21:53:583 INFO  [BaseTestSuite       ] - Attempting to use the latest available version for webdriver ChromeDriver.
+12:21:55:640 INFO  [ormLoginAndTweetTest] - INIT CLASS: PerformLoginAndTweetTest
+12:21:55:640 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+12:21:55:656 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+12:21:55:656 INFO  [Setup               ] - Initializing ChromeDriver
+12:22:00:112 INFO  [Setup               ] - Setting implicit wait to 0 milliseconds
+12:22:01:324 INFO  [EventHandler        ] - Driver loaded URL: https://twitter.com
+12:22:01:325 INFO  [ormLoginAndTweetTest] - Navigate to twitter's login-page, the sleep function provied 1000 milli seconds to load the page
+12:22:06:346 INFO  [BaseTestListener    ] - TEST STARTED: performLoginAndWriteTweet
+12:22:06:367 INFO  [ormLoginAndTweetTest] - It varifies that login page has loaded
+12:22:06:368 INFO  [ormLoginAndTweetTest] - Initializing Pages that would be used in Test
+12:22:06:431 INFO  [LoginPage           ] - Verifying that the login page is loaded by visibility of login button
+12:22:06:447 TRACE [EventHandler        ] - Finding element using locator:  By.xpath: /html/body/div[1]/div/div[1]/div[1]/div[1]/form/input[1]
+12:22:11:657 TRACE [Presence            ] - Element was not displayed within 5000 milliseconds
+12:22:11:658 INFO  [LoginPage           ] - The Login button is  not visible
+12:22:12:270 DEBUG [Screenshot          ] - Took screenshot, elapsed time: 527.7 ms
+12:22:12:554 INFO  [BaseTestListener    ] - Appended screenshot with text '2019/01/28 - 12:22:12 - FAIL: performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-01-28--12-22-11.jpg in 284.8 ms
+12:22:12:707 WARN  [BaseTestListener    ] - TEST FAILED: performLoginAndWriteTweet
+
+12:22:12:723 INFO  [ormLoginAndTweetTest] - CLOSING CHROMEDRIVER: performLoginAndWriteTweet
+12:22:14:157 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: Twitter

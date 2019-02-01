@@ -1,0 +1,24 @@
+12:19:51:482 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
+12:19:51:916 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+12:19:51:918 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+12:19:51:918 INFO  [BaseTestSuite       ] - Attempting to use the latest available version for webdriver ChromeDriver.
+12:19:54:324 INFO  [ormLoginAndTweetTest] - INIT CLASS: PerformLoginAndTweetTest
+12:19:54:329 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+12:19:54:333 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+12:19:54:333 INFO  [Setup               ] - Initializing ChromeDriver
+12:19:59:073 INFO  [Setup               ] - Setting implicit wait to 0 milliseconds
+12:20:00:743 INFO  [EventHandler        ] - Driver loaded URL: https://twitter.com/login
+12:20:00:744 INFO  [ormLoginAndTweetTest] - Navigate to twitter's login-page, the sleep function provied 1000 milli seconds to load the page
+12:20:05:745 INFO  [BaseTestListener    ] - TEST STARTED: performLoginAndWriteTweet
+12:20:05:760 INFO  [ormLoginAndTweetTest] - It varifies that login page has loaded
+12:20:05:760 INFO  [ormLoginAndTweetTest] - Initializing Pages that would be used in Test
+12:20:05:814 INFO  [LoginPage           ] - Verifying that the login page is loaded by visibility of login button
+12:20:05:830 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButton--medium
+12:20:10:905 TRACE [Presence            ] - Element was not displayed within 5000 milliseconds
+12:20:10:905 INFO  [LoginPage           ] - The Login button is  not visible
+12:20:11:590 DEBUG [Screenshot          ] - Took screenshot, elapsed time: 618.5 ms
+12:20:11:868 INFO  [BaseTestListener    ] - Appended screenshot with text '2019/01/28 - 12:20:11 - FAIL: performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-01-28--12-20-10.jpg in 271.5 ms
+12:20:12:232 WARN  [BaseTestListener    ] - TEST FAILED: performLoginAndWriteTweet
+
+12:20:12:235 INFO  [ormLoginAndTweetTest] - CLOSING CHROMEDRIVER: performLoginAndWriteTweet
+12:20:13:048 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: Twitter

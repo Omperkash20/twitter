@@ -1,0 +1,44 @@
+15:05:35:888 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
+15:05:36:173 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+15:05:36:173 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+15:05:36:173 INFO  [BaseTestSuite       ] - Attempting to use the latest available version for webdriver ChromeDriver.
+15:06:48:483 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
+15:06:48:833 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+15:06:48:833 INFO  [BaseTestSuite       ] - Initializing testsuite, should only run once per
+15:06:48:833 INFO  [BaseTestSuite       ] - Attempting to use the latest available version for webdriver ChromeDriver.
+15:06:50:536 INFO  [ormLoginAndTweetTest] - INIT CLASS: PerformLoginAndTweetTest
+15:06:50:552 INFO  [DebugLevel          ] - Setting debugLevel to IMAGES_RESULT
+15:06:50:552 INFO  [ormLoginAndTweetTest] - configId: chromedriver
+15:06:50:567 INFO  [Setup               ] - Initializing ChromeDriver
+15:06:53:352 INFO  [Setup               ] - Setting implicit wait to 0 milliseconds
+15:06:54:405 INFO  [EventHandler        ] - Driver loaded URL: https://twitter.com/login
+15:06:54:406 INFO  [ormLoginAndTweetTest] - Navigate to twitter's login-page, the sleep function provied 1000 milli seconds to load the page
+15:06:59:409 INFO  [BaseTestListener    ] - TEST STARTED: performLoginAndWriteTweet
+15:06:59:425 INFO  [ormLoginAndTweetTest] - It varifies that login page has loaded
+15:06:59:425 INFO  [ormLoginAndTweetTest] - Initializing Pages that would be used in Test
+15:06:59:498 INFO  [LoginPage           ] - Verifying that the login page is loaded by visibility of login button
+15:06:59:503 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium
+15:06:59:562 TRACE [Presence            ] - Element was displayed within 5000 milliseconds
+15:06:59:562 INFO  [LoginPage           ] - The Login button is visible
+15:06:59:563 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .js-username-field.email-input.js-initial-focus
+15:07:00:102 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .js-password-field
+15:07:00:699 TRACE [EventHandler        ] - Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium
+15:07:00:735 TRACE [Presence            ] - Element was clickable within 3000 milliseconds
+15:07:02:508 INFO  [EventHandler        ] - Driver clicked on element: [[ChromeDriver: chrome on XP (309f43d3e3b5d75740b035c70a78b59f)] -> css selector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]
+15:07:02:508 INFO  [MainPage            ] - Verifying that the login page is loaded by visibility of login button
+15:07:02:509 TRACE [EventHandler        ] - Finding element using locator:  By.xpath: //*[@id="tweet-box-home-timeline"]
+15:07:02:614 TRACE [Presence            ] - Element was displayed within 5000 milliseconds
+15:07:02:614 INFO  [MainPage            ] - The main page is visible
+15:07:03:518 TRACE [Presence            ] - Element was clickable within 3000 milliseconds
+15:07:03:634 INFO  [EventHandler        ] - Driver clicked on element: [[ChromeDriver: chrome on XP (309f43d3e3b5d75740b035c70a78b59f)] -> xpath: //*[@id="tweet-box-home-timeline"]]
+15:07:06:711 TRACE [EventHandler        ] - Finding element using locator:  By.xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]
+15:07:06:860 INFO  [EventHandler        ] - Driver clicked on element: [[ChromeDriver: chrome on XP (309f43d3e3b5d75740b035c70a78b59f)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]
+15:07:06:987 TRACE [Presence            ] - Element was clickable within 3000 milliseconds
+15:07:07:061 INFO  [EventHandler        ] - Driver clicked on element: [[ChromeDriver: chrome on XP (309f43d3e3b5d75740b035c70a78b59f)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]
+15:07:07:061 INFO  [MainPage            ] - tweet button clicked and tweet has been made
+15:07:07:596 DEBUG [Screenshot          ] - Took screenshot, elapsed time: 514.5 ms
+15:07:07:780 INFO  [BaseTestListener    ] - Appended screenshot with text '2019/02/01 - 15:07:07 - PASS:performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-02-01--15-07-07.jpg in 180.3 ms
+15:07:07:780 INFO  [BaseTestListener    ] - TEST PASSED: performLoginAndWriteTweet
+
+15:07:07:780 INFO  [ormLoginAndTweetTest] - CLOSING CHROMEDRIVER: performLoginAndWriteTweet
+15:07:08:547 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: Twitter

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="4996c64f-0fd1-4cbd-8917-94015b29d02e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -122,6 +123,13 @@
       <change afterPath="$PROJECT_DIR$/target/surefire-reports/twitter.PerformLoginAndTweetTest/Command line test.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/twitter/PerformLoginAndTweetTest.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/target/test-classes/twitter_config.xml" afterDir="false" />
+=======
+    <list default="true" id="4996c64f-0fd1-4cbd-8917-94015b29d02e" name="Default Changelist" comment="Fourth">
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/4bfaae90-e472-43bd-8922-393337db15e7.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-02-01--15-07-07.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/twitter/PerformLoginAndTweetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/twitter/PerformLoginAndTweetTest.class" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -135,7 +143,7 @@
     <session id="-373421159">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.13" value="1" />
@@ -148,7 +156,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< Updated upstream
           <entry key="JAVA" value="2603" />
+=======
+          <entry key="JAVA" value="2619" />
+          <entry key="PLAIN_TEXT" value="23" />
+>>>>>>> Stashed changes
           <entry key="XML" value="605" />
         </counts>
       </usages-collector>
@@ -174,8 +187,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/twitter/PerformLoginAndTweetTest.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="546">
               <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+=======
+            <state relative-caret-position="14">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+>>>>>>> Stashed changes
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -289,7 +307,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< Updated upstream
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548772325802" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549030907834" />
+>>>>>>> Stashed changes
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -348,6 +370,14 @@
       <option name="presentableId" value="Default" />
       <updated>1548409619034</updated>
     </task>
+    <task id="LOCAL-00001" summary="Fourth">
+      <created>1549030296642</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549030296642</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -386,8 +416,13 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< Updated upstream
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7150596" visible="true" weight="0.20309168" />
       <window_info id="Structure" order="1" sideWeight="0.28494042" side_tool="true" visible="true" weight="0.20309168" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71397614" visible="true" weight="0.20522387" />
+      <window_info id="Structure" order="1" sideWeight="0.28602383" side_tool="true" visible="true" weight="0.20522387" />
+>>>>>>> Stashed changes
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -395,7 +430,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
+<<<<<<< Updated upstream
       <window_info anchor="bottom" id="Run" order="2" weight="0.15926327" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1928494" />
+>>>>>>> Stashed changes
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,6 +455,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fourth" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/resources/twitter_config.xml">
@@ -464,8 +507,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/twitter/pages/MainPage.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="390">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
+=======
+        <state relative-caret-position="14">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+>>>>>>> Stashed changes
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

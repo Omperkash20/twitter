@@ -1,5 +1,0 @@
-10:19:22:093 INFO  [BaseTestListener    ] - STARTING TESTSUITE: Twitter
-10:19:22:657 INFO  [ormLoginAndTweetTest] - INIT CLASS: PerformLoginAndTweetTest
-10:19:22:706 WARN  [BaseTestListener    ] - TEST FAILED: performLoginAndWriteTweet
-
-10:19:22:711 INFO  [BaseTestListener    ] - FINISHED TESTSUITE: Twitter

@@ -19,7 +19,7 @@ public class PerformLoginAndTweetTest extends TwitterBaseTest {
 
         Assert.assertTrue(mainpage.isPageLoaded(),"Main page failed to load ");
 
-        String tweet="Second Testing Tweet via pigeon";
+        String tweet="Fifth Testing Tweet via pigeon";
         Assert.assertTrue(mainpage.checkIfTweetHasBeenMade(tweet),"The tweet has not beaan made");
 
     }

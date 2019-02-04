@@ -1,138 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="4996c64f-0fd1-4cbd-8917-94015b29d02e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Twitter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twitter/TwitterBaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twitter/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/twitter/pages/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/twitter/PerformLoginAndTweetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/twitter_config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Twitter-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/twitter/TwitterBaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/twitter/pages/LoginPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/twitter/pages/MainPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/08d79fb4-b400-4d41-99c7-258784f88361.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/0e365f62-7931-4534-ac72-ef816f3e6823.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/0eea99a9-212c-4aca-abab-0b92afdf9608.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/0fe8c62b-2d67-4997-84d5-caa54ded08ed.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/1223d570-ac57-42d1-9767-12d44a2a4ebd.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/246764aa-1384-4290-bdd1-967f826341c9.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2c6b686a-0e30-40f8-b76d-e652f5dd436f.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2d2d5154-435f-4968-856d-3434cade408b.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2d3cb8b7-eab6-4590-8278-9a55a2ef66af.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/2f05318d-1b0f-4b8e-948c-5b3f6bc60ce8.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/30c3fad7-5b2d-49ab-8906-9d1a28bcb271.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/3dbfe70c-1935-4c80-ac94-6f3698b1f633.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/3e99f184-8811-44ec-a36a-59b27a77d5f1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/497e5c5c-55f6-477a-8ec6-dff5d653a1f4.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/4b7c5bae-fd74-4db0-b93a-d20543e1c8dd.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/5c524d20-fe0e-452a-a2fb-f483b822c444.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/5ca0509c-4aff-4c10-9e40-7a4602880a43.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/62f004d3-155d-45a5-89de-fa2b834e392e.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/679095b2-6f4e-42b6-a682-0a02ce2688c8.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/68ec3e84-bd53-4303-b56c-3cc05599889c.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/6fe81383-c456-4d10-aeaf-9ff79b248c08.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/7c945786-8039-418e-84bf-8805f45b0238.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/7e9bcab7-5333-401c-80ce-32c6b365c95c.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/82dfa139-2c7c-439e-a2a8-7bb14adf9d98.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/90df7bd3-0a56-4efe-8567-7bcc6006c1b5.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/92684f66-d9d4-41c1-88de-e168852ad84c.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-twitter.PerformLoginAndTweetTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/a3d23b69-2842-47b0-9ba9-e0c76c3bc378.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/aab79225-bf13-47e4-9776-925c2b8de1cd.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/adf23f9c-a515-44b3-bd49-c5932afbe4a7.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/b5ac8fe8-979a-4559-a851-e896ed2dc2f8.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/c3c7c522-dff0-4736-aac8-2b5c2e5026eb.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/ca245dcb-b954-4b92-af7a-bd482fa6d15a.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/ca506745-8201-40e0-ab86-6cbb84254492.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/d28a5703-3e61-40e0-8ab6-1ac7bb27621a.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/db11c554-d4c7-4c49-b3d6-7d7488e2ad87.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/dec7c068-acee-4686-9fdd-5472cbda9475.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/e85ab2b1-e243-4ca3-a5cb-7b9282594126.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/fd9530da-d2a5-41f9-85c9-1c85d45a3977.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/ff3ad5b6-709b-4409-909c-52f4692171b1.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/Command line test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-00-14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-25-34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-26-48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-40-18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-41-23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-46-21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-48-54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-51-42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-56-54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-57-24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-20-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-21-04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-22-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-23-27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-28-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-28-22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-29-38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--13-31-48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--13-32-32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-18-10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-23-26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-27-24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-35-32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-37-15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-38-37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-54-30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-56-03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--10-00-09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--10-02-05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--10-19-06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/twitter.PerformLoginAndTweetTest.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/twitter.PerformLoginAndTweetTest/Command line test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/twitter.PerformLoginAndTweetTest/Command line test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/twitter/PerformLoginAndTweetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/twitter_config.xml" afterDir="false" />
-=======
-    <list default="true" id="4996c64f-0fd1-4cbd-8917-94015b29d02e" name="Default Changelist" comment="Fourth">
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/4bfaae90-e472-43bd-8922-393337db15e7.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-02-01--15-07-07.jpg" afterDir="false" />
+    <list default="true" id="6c67b81a-6bf4-480b-b72d-9932533ff442" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/twitter/PerformLoginAndTweetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/twitter/PerformLoginAndTweetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/twitter/PerformLoginAndTweetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/twitter/PerformLoginAndTweetTest.class" afterDir="false" />
->>>>>>> Stashed changes
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,116 +13,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-373421159">
+    <session id="723772801">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.13" value="1" />
-          <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.opened" value="9" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-<<<<<<< Updated upstream
-          <entry key="JAVA" value="2603" />
-=======
-          <entry key="JAVA" value="2619" />
-          <entry key="PLAIN_TEXT" value="23" />
->>>>>>> Stashed changes
-          <entry key="XML" value="605" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="4" />
+          <entry key="JAVA" value="7" />
           <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-373421159">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/twitter/PerformLoginAndTweetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="546">
-              <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-=======
-            <state relative-caret-position="14">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
->>>>>>> Stashed changes
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/twitter/TwitterBaseTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/twitter/pages/LoginPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/twitter/pages/MainPage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="468">
+              <caret line="22" column="98" lean-forward="true" selection-start-line="22" selection-start-column="98" selection-end-line="22" selection-end-column="98" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>C:\Pegion\Twitter</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -257,70 +69,66 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/twitter/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/twitter_config.xml" />
         <option value="$PROJECT_DIR$/src/test/java/twitter/PerformLoginAndTweetTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/twitter/pages/MainPage.java" />
-        <option value="$PROJECT_DIR$/src/main/java/twitter/TwitterBaseTest.java" />
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\omaheshwari\.m2\repository" />
-        <option name="mavenHome" value="C:/maven/apache-maven-3.5.3" />
-        <option name="userSettingsFile" value="C:\Users\omaheshwari\.m2\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-49" />
-    <option name="y" value="64" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Twitter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Twitter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Twitter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Twitter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Twitter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Twitter" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="twitter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-<<<<<<< Updated upstream
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548772325802" />
-=======
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549030907834" />
->>>>>>> Stashed changes
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="twitter" />
-    </key>
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549270171644" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -364,51 +172,19 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4996c64f-0fd1-4cbd-8917-94015b29d02e" name="Default Changelist" comment="" />
-      <created>1548409619034</created>
+      <changelist id="6c67b81a-6bf4-480b-b72d-9932533ff442" name="Default Changelist" comment="" />
+      <created>1548406521898</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1548409619034</updated>
+      <updated>1548406521898</updated>
     </task>
-    <task id="LOCAL-00001" summary="Fourth">
-      <created>1549030296642</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1549030296642</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 09h 23m 29s.xml">
+    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.02.04 at 09h 26m 21s.xml">
       <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 09h 27m 26s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 09h 35m 34s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 09h 37m 18s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 09h 38m 39s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 09h 54m 33s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 09h 56m 06s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 10h 00m 12s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 10h 02m 08s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.01.29 at 10h 19m 08s.xml">
+    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.02.04 at 09h 27m 41s.xml">
       <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -416,13 +192,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-<<<<<<< Updated upstream
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7150596" visible="true" weight="0.20309168" />
-      <window_info id="Structure" order="1" sideWeight="0.28494042" side_tool="true" visible="true" weight="0.20309168" />
-=======
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.71397614" visible="true" weight="0.20522387" />
-      <window_info id="Structure" order="1" sideWeight="0.28602383" side_tool="true" visible="true" weight="0.20522387" />
->>>>>>> Stashed changes
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28091684" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -430,11 +201,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-<<<<<<< Updated upstream
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15926327" />
-=======
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1928494" />
->>>>>>> Stashed changes
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22318527" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -456,147 +223,25 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Fourth" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fourth" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/resources/twitter_config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="70" selection-start-line="11" selection-start-column="70" selection-end-line="11" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="20" column="47" lean-forward="true" selection-start-line="20" selection-start-column="47" selection-end-line="20" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/webdriver-reference/src/test/java/se/soprasteria/automatedtesting/webdriver/google/PerformSearch.java" />
+    <entry file="file://$PROJECT_DIR$/webdriver-reference/src/test/java/se/soprasteria/automatedtesting/webdriver/yahooweather/AssertContent.java" />
+    <entry file="file://$PROJECT_DIR$/webdriver-reference/src/test/java/se/soprasteria/automatedtesting/webdriver/yahooweather/SwitchBetweenLocations.java" />
+    <entry file="file://$PROJECT_DIR$/webdriver-reference/src/test/java/se/soprasteria/automatedtesting/webdriver/yahooweather/AddingLocations.java" />
+    <entry file="file://$PROJECT_DIR$/webdriver-reference/pom.xml" />
     <entry file="file://$PROJECT_DIR$/src/test/java/twitter/PerformLoginAndTweetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twitter/TwitterBaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twitter/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/twitter/pages/MainPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="390">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-=======
-        <state relative-caret-position="14">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
->>>>>>> Stashed changes
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="468">
+          <caret line="22" column="98" lean-forward="true" selection-start-line="22" selection-start-column="98" selection-end-line="22" selection-end-column="98" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>Twitter</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

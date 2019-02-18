@@ -10,8 +10,8 @@
 
 <repositories>
     <repository>
-        <id>nexus-soprasteria-releases</id>
-        <url>http://104.155.70.30:8081/nexus/content/repositories/releases/</url>
+        <id>s3bucket-soprasteria-releases</id>
+        <url>s3://s3bucket-soprasteria-releases/</url>
         <snapshots>
             <enabled>false</enabled>
             <updatePolicy>daily</updatePolicy>
@@ -19,6 +19,18 @@
         <releases>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
+        </releases>
+    </repository>
+    <repository>
+        <id>s3bucket-soprasteria-snapshots</id>
+        <url>s3://s3bucket-soprasteria-snapshots/</url>
+        <snapshots>
+            <enabled>true</enabled>
+            <updatePolicy>always</updatePolicy>
+        </snapshots>
+        <releases>
+            <enabled>false</enabled>
+            <updatePolicy>daily</updatePolicy>
         </releases>
     </repository>
 
@@ -42,13 +54,21 @@
             <version>2.18</version>
             <configuration>
                 <suiteXmlFiles>
-                    <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
+                    <!-- <suiteXmlFile>${suiteXmlFile}</suiteXmlFile>  -->
+                    <suiteXmlFile>C:\Pegion\Twitter\src\test\java\twitter\chrome-test-testng.xml</suiteXmlFile>
                 </suiteXmlFiles>
             </configuration>
         </plugin>
-
-
     </plugins>
+
+        <extensions>
+            <extension>
+                <groupId>org.kuali.maven.wagons</groupId>
+                <artifactId>maven-s3-wagon</artifactId>
+                <version>1.2.1</version>
+            </extension>
+        </extensions>
+
 
 </build>
 

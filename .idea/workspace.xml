@@ -2,110 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c67b81a-6bf4-480b-b72d-9932533ff442" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/twitter/chrome-test-testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Twitter-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/twitter/TwitterBaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twitter/TwitterBaseTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/twitter/pages/MainPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/twitter/pages/MainPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/08d79fb4-b400-4d41-99c7-258784f88361.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/0e365f62-7931-4534-ac72-ef816f3e6823.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/0eea99a9-212c-4aca-abab-0b92afdf9608.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/0fe8c62b-2d67-4997-84d5-caa54ded08ed.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/1085b620-b94e-4105-a471-31f0a7e1da29.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/1223d570-ac57-42d1-9767-12d44a2a4ebd.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/1ca4af14-423d-4acd-9441-777202f84c8d.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/246764aa-1384-4290-bdd1-967f826341c9.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2c6b686a-0e30-40f8-b76d-e652f5dd436f.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2d2d5154-435f-4968-856d-3434cade408b.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2d3cb8b7-eab6-4590-8278-9a55a2ef66af.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2f05318d-1b0f-4b8e-948c-5b3f6bc60ce8.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/30c3fad7-5b2d-49ab-8906-9d1a28bcb271.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/3dbfe70c-1935-4c80-ac94-6f3698b1f633.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/3e99f184-8811-44ec-a36a-59b27a77d5f1.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/497e5c5c-55f6-477a-8ec6-dff5d653a1f4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/4b7c5bae-fd74-4db0-b93a-d20543e1c8dd.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/4bfaae90-e472-43bd-8922-393337db15e7.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/5c524d20-fe0e-452a-a2fb-f483b822c444.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/5ca0509c-4aff-4c10-9e40-7a4602880a43.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/62f004d3-155d-45a5-89de-fa2b834e392e.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/679095b2-6f4e-42b6-a682-0a02ce2688c8.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/68ec3e84-bd53-4303-b56c-3cc05599889c.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/6fe81383-c456-4d10-aeaf-9ff79b248c08.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/7c945786-8039-418e-84bf-8805f45b0238.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/7e9bcab7-5333-401c-80ce-32c6b365c95c.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/82dfa139-2c7c-439e-a2a8-7bb14adf9d98.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/90df7bd3-0a56-4efe-8567-7bcc6006c1b5.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/92684f66-d9d4-41c1-88de-e168852ad84c.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-twitter.PerformLoginAndTweetTest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/a3d23b69-2842-47b0-9ba9-e0c76c3bc378.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/aab79225-bf13-47e4-9776-925c2b8de1cd.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/adf23f9c-a515-44b3-bd49-c5932afbe4a7.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/b5ac8fe8-979a-4559-a851-e896ed2dc2f8.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/c3c7c522-dff0-4736-aac8-2b5c2e5026eb.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ca245dcb-b954-4b92-af7a-bd482fa6d15a.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ca506745-8201-40e0-ab86-6cbb84254492.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/d28a5703-3e61-40e0-8ab6-1ac7bb27621a.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/db11c554-d4c7-4c49-b3d6-7d7488e2ad87.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/dec7c068-acee-4686-9fdd-5472cbda9475.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/e85ab2b1-e243-4ca3-a5cb-7b9282594126.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/6e6bb043-5887-4812-8698-a93a5c62b9c2.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Suite/Test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/fd9530da-d2a5-41f9-85c9-1c85d45a3977.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ff3ad5b6-709b-4409-909c-52f4692171b1.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/Command line test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/twitter.PerformLoginAndTweetTest/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-00-14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-25-34.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-26-48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-40-18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-41-23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-46-21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-48-54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-51-42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-56-54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--11-57-24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-20-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-21-04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-22-11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-23-27.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-28-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-28-22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--12-29-38.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--13-31-48.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-28--13-32-32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-18-10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-23-26.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-27-24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-35-32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-37-15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-38-37.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-54-30.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--09-56-03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--10-00-09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--10-02-05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-01-29--10-19-06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-02-01--15-07-07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-02-04--09-26-19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-02-04--09-27-39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-twitter.PerformLoginAndTweetTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-twitter.PerformLoginAndTweetTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/groups.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/groups.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/Suite/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/Suite/reporter-output.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/performLoginAndWriteTweet__chromedriver__2019-02-04--14-40-10.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/twitter.PerformLoginAndTweetTest.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/twitter.PerformLoginAndTweetTest/Command line test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/twitter.PerformLoginAndTweetTest/Command line test.xml" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,22 +54,27 @@
     <session id="-373421159">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
-          <entry key="XML" value="12" />
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="6" />
-          <entry key="XML" value="344" />
+          <entry key="XML" value="531" />
         </counts>
       </usages-collector>
     </session>
@@ -165,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/twitter/PerformLoginAndTweetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+            <state relative-caret-position="234">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -177,17 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1144">
-              <caret line="44" column="64" lean-forward="true" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/twitter/chrome-test-testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="454">
+              <caret line="65" column="57" lean-forward="true" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -214,16 +124,28 @@
     </option>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/maven/apache-maven-3.5.3" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="54" />
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1092" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -232,7 +154,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,15 +198,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549287580901" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550492874045" />
     <property name="last_opened_file_path" value="C:/ntjp/tak" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -358,34 +280,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.02.04 at 13h 35m 19s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.02.04 at 13h 41m 55s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.02.04 at 13h 43m 41s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PerformLoginAndTweetTest_performLoginAndWriteTweet - 2019.02.04 at 13h 47m 30s.xml">
-      <configuration name="PerformLoginAndTweetTest.performLoginAndWriteTweet" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.04 at 14h 00m 09s.xml">
-      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.04 at 14h 05m 22s.xml">
-      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.04 at 14h 06m 07s.xml">
-      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.04 at 14h 18m 28s.xml">
-      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.04 at 14h 19m 58s.xml">
       <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.04 at 14h 20m 54s.xml">
+      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.04 at 14h 39m 21s.xml">
+      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.04 at 16h 10m 08s.xml">
+      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.04 at 16h 11m 55s.xml">
+      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.18 at 10h 00m 24s.xml">
+      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.18 at 10h 36m 26s.xml">
+      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.18 at 10h 41m 17s.xml">
+      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.18 at 11h 07m 36s.xml">
+      <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Pegion_Twitter_src_test_java_twitter_chrome-test-testng_xml - 2019.02.18 at 11h 18m 24s.xml">
       <configuration name="C:/Pegion/Twitter/src/test/java/twitter/chrome-test-testng.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -393,8 +315,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6555891" visible="true" weight="0.2675906" />
-      <window_info id="Structure" order="1" sideWeight="0.34441087" side_tool="true" visible="true" weight="0.2675906" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6493689" visible="true" weight="0.282516" />
+      <window_info id="Structure" order="1" sideWeight="0.35063115" side_tool="true" visible="true" weight="0.282516" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -402,7 +324,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.28277355" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22751896" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -410,8 +332,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32936078" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.21235102" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -419,7 +340,8 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.11940298" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -431,37 +353,51 @@
     <entry file="file://$PROJECT_DIR$/webdriver-reference/src/test/java/se/soprasteria/automatedtesting/webdriver/yahooweather/SwitchBetweenLocations.java" />
     <entry file="file://$PROJECT_DIR$/webdriver-reference/src/test/java/se/soprasteria/automatedtesting/webdriver/yahooweather/AddingLocations.java" />
     <entry file="file://$PROJECT_DIR$/webdriver-reference/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/twitter/chrome-test-testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/twitter_config.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/testng_xml_temp.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twitter/pages/MainPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/twitter/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" column="42" selection-start-line="4" selection-start-column="42" selection-end-line="4" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/twitter/PerformLoginAndTweetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        <state relative-caret-position="234">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testng_xml_temp.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/twitter/chrome-test-testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="44" column="64" lean-forward="true" selection-start-line="44" selection-start-column="64" selection-end-line="44" selection-end-column="64" />
+        <state relative-caret-position="454">
+          <caret line="65" column="57" lean-forward="true" selection-start-line="65" selection-start-column="57" selection-end-line="65" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -542,7 +478,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: antlr:antlr:2.7.2</last-edited>
+          <last-edited>Maven: se.soprasteria.automatedtesting.webdriver:webdriver-core:4.0.2-SNAPSHOT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

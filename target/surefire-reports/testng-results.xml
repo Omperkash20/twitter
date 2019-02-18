@@ -2,150 +2,150 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
     <line>
-      <![CDATA[1549287593004 INFO    STARTING TESTSUITE: Test]]>
+      <![CDATA[1550486983798 INFO    STARTING TESTSUITE: Test]]>
     </line>
     <line>
-      <![CDATA[1549287593250 INFO    configId: chromedriver]]>
+      <![CDATA[1550486984264 INFO    configId: chromedriver]]>
     </line>
     <line>
-      <![CDATA[1549287593252 INFO    Initializing testsuite, should only run once per]]>
+      <![CDATA[1550486984265 INFO    Initializing testsuite, should only run once per]]>
     </line>
     <line>
-      <![CDATA[1549287593252 INFO    Attempting to use the latest available version for webdriver ChromeDriver.]]>
+      <![CDATA[1550486984266 INFO    Attempting to use the latest available version for webdriver ChromeDriver.]]>
     </line>
     <line>
-      <![CDATA[1549287594926 INFO    INIT CLASS: PerformLoginAndTweetTest]]>
+      <![CDATA[1550486986298 INFO    INIT CLASS: PerformLoginAndTweetTest]]>
     </line>
     <line>
-      <![CDATA[1549287594929 INFO    Setting debugLevel to IMAGES_RESULT]]>
+      <![CDATA[1550486986302 INFO    Setting debugLevel to IMAGES_RESULT]]>
     </line>
     <line>
-      <![CDATA[1549287594936 INFO    configId: chromedriver]]>
+      <![CDATA[1550486986307 INFO    configId: chromedriver]]>
     </line>
     <line>
-      <![CDATA[1549287594946 INFO    Initializing ChromeDriver]]>
+      <![CDATA[1550486986324 INFO    Initializing ChromeDriver]]>
     </line>
     <line>
-      <![CDATA[1549287597823 INFO    Setting implicit wait to 0 milliseconds]]>
+      <![CDATA[1550486990207 INFO    Setting implicit wait to 0 milliseconds]]>
     </line>
     <line>
-      <![CDATA[1549287598641 INFO    Driver loaded URL: https://twitter.com/login]]>
+      <![CDATA[1550486991254 INFO    Driver loaded URL: https://twitter.com/login]]>
     </line>
     <line>
-      <![CDATA[1549287598642 INFO    Navigate to twitter's login-page, the sleep function provied 1000 milli seconds to load the page]]>
+      <![CDATA[1550486991255 INFO    Navigate to twitter's login-page, the sleep function provied 1000 milli seconds to load the page]]>
     </line>
     <line>
-      <![CDATA[1549287603649 INFO    TEST STARTED: performLoginAndWriteTweet]]>
+      <![CDATA[1550486996272 INFO    TEST STARTED: performLoginAndWriteTweet]]>
     </line>
     <line>
-      <![CDATA[1549287603659 INFO    It varifies that login page has loaded]]>
+      <![CDATA[1550486996280 INFO    It varifies that login page has loaded]]>
     </line>
     <line>
-      <![CDATA[1549287603660 INFO    Initializing Pages that would be used in Test]]>
+      <![CDATA[1550486996280 INFO    Initializing Pages that would be used in Test]]>
     </line>
     <line>
-      <![CDATA[1549287603695 INFO    Verifying that the login page is loaded by visibility of login button]]>
+      <![CDATA[1550486996309 INFO    Verifying that the login page is loaded by visibility of login button]]>
     </line>
     <line>
-      <![CDATA[1549287603709 TRACE   Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]>
+      <![CDATA[1550486996317 TRACE   Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]>
     </line>
     <line>
-      <![CDATA[1549287603755 TRACE   Element was displayed within 5000 milliseconds]]>
+      <![CDATA[1550486996361 TRACE   Element was displayed within 5000 milliseconds]]>
     </line>
     <line>
-      <![CDATA[1549287603755 INFO    The Login button is visible]]>
+      <![CDATA[1550486996362 INFO    The Login button is visible]]>
     </line>
     <line>
-      <![CDATA[1549287603759 TRACE   Finding element using locator:  By.cssSelector: .js-username-field.email-input.js-initial-focus]]>
+      <![CDATA[1550486996364 TRACE   Finding element using locator:  By.cssSelector: .js-username-field.email-input.js-initial-focus]]>
     </line>
     <line>
-      <![CDATA[1549287604245 TRACE   Finding element using locator:  By.cssSelector: .js-password-field]]>
+      <![CDATA[1550486996967 TRACE   Finding element using locator:  By.cssSelector: .js-password-field]]>
     </line>
     <line>
-      <![CDATA[1549287604721 TRACE   Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]>
+      <![CDATA[1550486997476 TRACE   Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]>
     </line>
     <line>
-      <![CDATA[1549287604764 TRACE   Element was clickable within 3000 milliseconds]]>
+      <![CDATA[1550486997517 TRACE   Element was clickable within 3000 milliseconds]]>
     </line>
     <line>
-      <![CDATA[1549287606184 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (04a1ec7e2fd97e6664cd35c30f8639ca)] -> css selector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]]>
+      <![CDATA[1550486998992 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (22ad901358443a8f8b6f955d0c79edf1)] -> css selector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]]>
     </line>
     <line>
-      <![CDATA[1549287606185 INFO    Verifying that the login page is loaded by visibility of login button]]>
+      <![CDATA[1550486998993 INFO    Verifying that the login page is loaded by visibility of login button]]>
     </line>
     <line>
-      <![CDATA[1549287606186 TRACE   Finding element using locator:  By.xpath: //*[@id="tweet-box-home-timeline"]]]>
+      <![CDATA[1550486998993 TRACE   Finding element using locator:  By.xpath: //*[@id="tweet-box-home-timeline"]]]>
     </line>
     <line>
-      <![CDATA[1549287607125 TRACE   Element was displayed within 5000 milliseconds]]>
+      <![CDATA[1550487000451 TRACE   Element was displayed within 5000 milliseconds]]>
     </line>
     <line>
-      <![CDATA[1549287607126 INFO    The main page is visible]]>
+      <![CDATA[1550487000451 INFO    The main page is visible]]>
     </line>
     <line>
-      <![CDATA[1549287607289 TRACE   Element was clickable within 3000 milliseconds]]>
+      <![CDATA[1550487000605 TRACE   Element was clickable within 3000 milliseconds]]>
     </line>
     <line>
-      <![CDATA[1549287607457 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (04a1ec7e2fd97e6664cd35c30f8639ca)] -> xpath: //*[@id="tweet-box-home-timeline"]]]]>
+      <![CDATA[1550487000773 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (22ad901358443a8f8b6f955d0c79edf1)] -> xpath: //*[@id="tweet-box-home-timeline"]]]]>
     </line>
     <line>
-      <![CDATA[1549287610051 TRACE   Finding element using locator:  By.xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]>
+      <![CDATA[1550487003722 TRACE   Finding element using locator:  By.xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]>
     </line>
     <line>
-      <![CDATA[1549287610165 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (04a1ec7e2fd97e6664cd35c30f8639ca)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]]>
+      <![CDATA[1550487003846 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (22ad901358443a8f8b6f955d0c79edf1)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]]>
     </line>
     <line>
-      <![CDATA[1549287610232 TRACE   Element was clickable within 3000 milliseconds]]>
+      <![CDATA[1550487003928 TRACE   Element was clickable within 3000 milliseconds]]>
     </line>
     <line>
-      <![CDATA[1549287610321 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (04a1ec7e2fd97e6664cd35c30f8639ca)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]]>
+      <![CDATA[1550487003996 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (22ad901358443a8f8b6f955d0c79edf1)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]]>
     </line>
     <line>
-      <![CDATA[1549287610322 INFO    tweet button clicked and tweet has been made]]>
+      <![CDATA[1550487003996 INFO    tweet button clicked and tweet has been made]]>
     </line>
     <line>
-      <![CDATA[1549287610826 DEBUG   Took screenshot, elapsed time: 463.7 ms]]>
+      <![CDATA[1550487004577 DEBUG   Took screenshot, elapsed time: 549.8 ms]]>
     </line>
     <line>
-      <![CDATA[1549287611022 INFO    Appended screenshot with text '2019/02/04 - 14:40:10 - PASS:performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-02-04--14-40-10.jpg in 183.8 ms]]>
+      <![CDATA[1550487004837 INFO    Appended screenshot with text '2019/02/18 - 11:50:04 - PASS:performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-02-18--11-50-04.jpg in 255.5 ms]]>
     </line>
     <line>
-      <![CDATA[1549287611024 INFO    TEST PASSED: performLoginAndWriteTweet
+      <![CDATA[1550487004837 INFO    TEST PASSED: performLoginAndWriteTweet
 ]]>
     </line>
     <line>
-      <![CDATA[1549287611029 INFO    CLOSING CHROMEDRIVER: performLoginAndWriteTweet]]>
+      <![CDATA[1550487004840 INFO    CLOSING CHROMEDRIVER: performLoginAndWriteTweet]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="18779" started-at="2019-02-04T13:39:52Z" finished-at="2019-02-04T13:40:11Z">
+  <suite name="Suite" duration-ms="21770" started-at="2019-02-18T10:49:43Z" finished-at="2019-02-18T10:50:05Z">
     <groups>
       <group name="standard">
-        <method signature="PerformLoginAndTweetTest.performLoginAndWriteTweet(org.openqa.selenium.WebDriver)[pri:0, instance:twitter.PerformLoginAndTweetTest@78ffe6dc]" name="performLoginAndWriteTweet" class="twitter.PerformLoginAndTweetTest"/>
+        <method signature="PerformLoginAndTweetTest.performLoginAndWriteTweet(org.openqa.selenium.WebDriver)[pri:0, instance:twitter.PerformLoginAndTweetTest@76f2bbc1]" name="performLoginAndWriteTweet" class="twitter.PerformLoginAndTweetTest"/>
       </group> <!-- standard -->
     </groups>
-    <test name="Test" duration-ms="18779" started-at="2019-02-04T13:39:52Z" finished-at="2019-02-04T13:40:11Z">
+    <test name="Test" duration-ms="21770" started-at="2019-02-18T10:49:43Z" finished-at="2019-02-18T10:50:05Z">
       <class name="twitter.PerformLoginAndTweetTest">
-        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext, org.testng.xml.XmlTest)[pri:0, instance:twitter.PerformLoginAndTweetTest@78ffe6dc]" name="beforeSuite" is-config="true" duration-ms="18" started-at="2019-02-04T13:39:52Z" finished-at="2019-02-04T13:39:52Z">
+        <test-method status="PASS" signature="beforeSuite(org.testng.ITestContext, org.testng.xml.XmlTest)[pri:0, instance:twitter.PerformLoginAndTweetTest@76f2bbc1]" name="beforeSuite" is-config="true" duration-ms="23" started-at="2019-02-18T10:49:43Z" finished-at="2019-02-18T10:49:43Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@bc4d5e1]]>
+                <![CDATA[org.testng.TestRunner@30814f43]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.xml.XmlTest@815c7f45]]>
+                <![CDATA[org.testng.xml.XmlTest@3f04d83b]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSuite -->
-        <test-method status="PASS" signature="initSuite(org.testng.ITestContext, java.lang.String, java.lang.String)[pri:0, instance:twitter.PerformLoginAndTweetTest@78ffe6dc]" name="initSuite" is-config="true" duration-ms="1907" started-at="2019-02-04T13:39:53Z" finished-at="2019-02-04T13:39:54Z">
+        <test-method status="PASS" signature="initSuite(org.testng.ITestContext, java.lang.String, java.lang.String)[pri:0, instance:twitter.PerformLoginAndTweetTest@76f2bbc1]" name="initSuite" is-config="true" duration-ms="2486" started-at="2019-02-18T10:49:43Z" finished-at="2019-02-18T10:49:46Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@bc4d5e1]]>
+                <![CDATA[org.testng.TestRunner@30814f43]]>
               </value>
             </param>
             <param index="1">
@@ -161,21 +161,21 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[1549287593250 INFO    configId: chromedriver]]>
+              <![CDATA[1550486984264 INFO    configId: chromedriver]]>
             </line>
             <line>
-              <![CDATA[1549287593252 INFO    Initializing testsuite, should only run once per]]>
+              <![CDATA[1550486984265 INFO    Initializing testsuite, should only run once per]]>
             </line>
             <line>
-              <![CDATA[1549287593252 INFO    Attempting to use the latest available version for webdriver ChromeDriver.]]>
+              <![CDATA[1550486984266 INFO    Attempting to use the latest available version for webdriver ChromeDriver.]]>
             </line>
           </reporter-output>
         </test-method> <!-- initSuite -->
-        <test-method status="PASS" signature="initTestClass(org.testng.ITestContext, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:twitter.PerformLoginAndTweetTest@78ffe6dc]" name="initTestClass" is-config="true" duration-ms="5" started-at="2019-02-04T13:39:54Z" finished-at="2019-02-04T13:39:54Z">
+        <test-method status="PASS" signature="initTestClass(org.testng.ITestContext, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:twitter.PerformLoginAndTweetTest@76f2bbc1]" name="initTestClass" is-config="true" duration-ms="6" started-at="2019-02-18T10:49:46Z" finished-at="2019-02-18T10:49:46Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@bc4d5e1]]>
+                <![CDATA[org.testng.TestRunner@30814f43]]>
               </value>
             </param>
             <param index="1">
@@ -196,23 +196,23 @@
           </params>
           <reporter-output>
             <line>
-              <![CDATA[1549287594926 INFO    INIT CLASS: PerformLoginAndTweetTest]]>
+              <![CDATA[1550486986298 INFO    INIT CLASS: PerformLoginAndTweetTest]]>
             </line>
             <line>
-              <![CDATA[1549287594929 INFO    Setting debugLevel to IMAGES_RESULT]]>
+              <![CDATA[1550486986302 INFO    Setting debugLevel to IMAGES_RESULT]]>
             </line>
           </reporter-output>
         </test-method> <!-- initTestClass -->
-        <test-method status="PASS" signature="beforeMethod(org.testng.ITestContext, org.testng.xml.XmlTest, java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:twitter.PerformLoginAndTweetTest@78ffe6dc]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-02-04T13:40:03Z" finished-at="2019-02-04T13:40:03Z">
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestContext, org.testng.xml.XmlTest, java.lang.reflect.Method, [Ljava.lang.Object;)[pri:0, instance:twitter.PerformLoginAndTweetTest@76f2bbc1]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2019-02-18T10:49:56Z" finished-at="2019-02-18T10:49:56Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@bc4d5e1]]>
+                <![CDATA[org.testng.TestRunner@30814f43]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.xml.XmlTest@815c7f45]]>
+                <![CDATA[org.testng.xml.XmlTest@3f04d83b]]>
               </value>
             </param>
             <param index="2">
@@ -222,118 +222,118 @@
             </param>
             <param index="3">
               <value>
-                <![CDATA[[Ljava.lang.Object;@2257fadf]]>
+                <![CDATA[[Ljava.lang.Object;@49cf9028]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method status="PASS" signature="performLoginAndWriteTweet(org.openqa.selenium.WebDriver)[pri:0, instance:twitter.PerformLoginAndTweetTest@78ffe6dc]" name="performLoginAndWriteTweet" duration-ms="6673" started-at="2019-02-04T13:40:03Z" data-provider="getWebDriver" finished-at="2019-02-04T13:40:10Z">
+        <test-method status="PASS" signature="performLoginAndWriteTweet(org.openqa.selenium.WebDriver)[pri:0, instance:twitter.PerformLoginAndTweetTest@76f2bbc1]" name="performLoginAndWriteTweet" duration-ms="7726" started-at="2019-02-18T10:49:56Z" data-provider="getWebDriver" finished-at="2019-02-18T10:50:03Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.openqa.selenium.support.events.EventFiringWebDriver@66f659e6]]>
+                <![CDATA[org.openqa.selenium.support.events.EventFiringWebDriver@6e57b5e9]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[1549287603649 INFO    TEST STARTED: performLoginAndWriteTweet]]>
+              <![CDATA[1550486996272 INFO    TEST STARTED: performLoginAndWriteTweet]]>
             </line>
             <line>
-              <![CDATA[1549287603659 INFO    It varifies that login page has loaded]]>
+              <![CDATA[1550486996280 INFO    It varifies that login page has loaded]]>
             </line>
             <line>
-              <![CDATA[1549287603660 INFO    Initializing Pages that would be used in Test]]>
+              <![CDATA[1550486996280 INFO    Initializing Pages that would be used in Test]]>
             </line>
             <line>
-              <![CDATA[1549287603695 INFO    Verifying that the login page is loaded by visibility of login button]]>
+              <![CDATA[1550486996309 INFO    Verifying that the login page is loaded by visibility of login button]]>
             </line>
             <line>
-              <![CDATA[1549287603709 TRACE   Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]>
+              <![CDATA[1550486996317 TRACE   Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]>
             </line>
             <line>
-              <![CDATA[1549287603755 TRACE   Element was displayed within 5000 milliseconds]]>
+              <![CDATA[1550486996361 TRACE   Element was displayed within 5000 milliseconds]]>
             </line>
             <line>
-              <![CDATA[1549287603755 INFO    The Login button is visible]]>
+              <![CDATA[1550486996362 INFO    The Login button is visible]]>
             </line>
             <line>
-              <![CDATA[1549287603759 TRACE   Finding element using locator:  By.cssSelector: .js-username-field.email-input.js-initial-focus]]>
+              <![CDATA[1550486996364 TRACE   Finding element using locator:  By.cssSelector: .js-username-field.email-input.js-initial-focus]]>
             </line>
             <line>
-              <![CDATA[1549287604245 TRACE   Finding element using locator:  By.cssSelector: .js-password-field]]>
+              <![CDATA[1550486996967 TRACE   Finding element using locator:  By.cssSelector: .js-password-field]]>
             </line>
             <line>
-              <![CDATA[1549287604721 TRACE   Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]>
+              <![CDATA[1550486997476 TRACE   Finding element using locator:  By.cssSelector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]>
             </line>
             <line>
-              <![CDATA[1549287604764 TRACE   Element was clickable within 3000 milliseconds]]>
+              <![CDATA[1550486997517 TRACE   Element was clickable within 3000 milliseconds]]>
             </line>
             <line>
-              <![CDATA[1549287606184 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (04a1ec7e2fd97e6664cd35c30f8639ca)] -> css selector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]]>
+              <![CDATA[1550486998992 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (22ad901358443a8f8b6f955d0c79edf1)] -> css selector: .submit.EdgeButton.EdgeButton--primary.EdgeButtom--medium]]]>
             </line>
             <line>
-              <![CDATA[1549287606185 INFO    Verifying that the login page is loaded by visibility of login button]]>
+              <![CDATA[1550486998993 INFO    Verifying that the login page is loaded by visibility of login button]]>
             </line>
             <line>
-              <![CDATA[1549287606186 TRACE   Finding element using locator:  By.xpath: //*[@id="tweet-box-home-timeline"]]]>
+              <![CDATA[1550486998993 TRACE   Finding element using locator:  By.xpath: //*[@id="tweet-box-home-timeline"]]]>
             </line>
             <line>
-              <![CDATA[1549287607125 TRACE   Element was displayed within 5000 milliseconds]]>
+              <![CDATA[1550487000451 TRACE   Element was displayed within 5000 milliseconds]]>
             </line>
             <line>
-              <![CDATA[1549287607126 INFO    The main page is visible]]>
+              <![CDATA[1550487000451 INFO    The main page is visible]]>
             </line>
             <line>
-              <![CDATA[1549287607289 TRACE   Element was clickable within 3000 milliseconds]]>
+              <![CDATA[1550487000605 TRACE   Element was clickable within 3000 milliseconds]]>
             </line>
             <line>
-              <![CDATA[1549287607457 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (04a1ec7e2fd97e6664cd35c30f8639ca)] -> xpath: //*[@id="tweet-box-home-timeline"]]]]>
+              <![CDATA[1550487000773 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (22ad901358443a8f8b6f955d0c79edf1)] -> xpath: //*[@id="tweet-box-home-timeline"]]]]>
             </line>
             <line>
-              <![CDATA[1549287610051 TRACE   Finding element using locator:  By.xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]>
+              <![CDATA[1550487003722 TRACE   Finding element using locator:  By.xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]>
             </line>
             <line>
-              <![CDATA[1549287610165 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (04a1ec7e2fd97e6664cd35c30f8639ca)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]]>
+              <![CDATA[1550487003846 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (22ad901358443a8f8b6f955d0c79edf1)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]]>
             </line>
             <line>
-              <![CDATA[1549287610232 TRACE   Element was clickable within 3000 milliseconds]]>
+              <![CDATA[1550487003928 TRACE   Element was clickable within 3000 milliseconds]]>
             </line>
             <line>
-              <![CDATA[1549287610321 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (04a1ec7e2fd97e6664cd35c30f8639ca)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]]>
+              <![CDATA[1550487003996 INFO    Driver clicked on element: [[ChromeDriver: chrome on XP (22ad901358443a8f8b6f955d0c79edf1)] -> xpath: /html/body/div[2]/div[2]/div/div[2]/div[2]/div/form/div[3]/div[2]/button/span[1]]]]>
             </line>
             <line>
-              <![CDATA[1549287610322 INFO    tweet button clicked and tweet has been made]]>
+              <![CDATA[1550487003996 INFO    tweet button clicked and tweet has been made]]>
             </line>
             <line>
-              <![CDATA[1549287610826 DEBUG   Took screenshot, elapsed time: 463.7 ms]]>
+              <![CDATA[1550487004577 DEBUG   Took screenshot, elapsed time: 549.8 ms]]>
             </line>
             <line>
-              <![CDATA[1549287611022 INFO    Appended screenshot with text '2019/02/04 - 14:40:10 - PASS:performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-02-04--14-40-10.jpg in 183.8 ms]]>
+              <![CDATA[1550487004837 INFO    Appended screenshot with text '2019/02/18 - 11:50:04 - PASS:performLoginAndWriteTweet ' to file: target/surefire-reports\performLoginAndWriteTweet__chromedriver__2019-02-18--11-50-04.jpg in 255.5 ms]]>
             </line>
             <line>
-              <![CDATA[1549287611024 INFO    TEST PASSED: performLoginAndWriteTweet
+              <![CDATA[1550487004837 INFO    TEST PASSED: performLoginAndWriteTweet
 ]]>
             </line>
           </reporter-output>
         </test-method> <!-- performLoginAndWriteTweet -->
-        <test-method status="PASS" signature="closeWebDriver(org.testng.ITestResult)[pri:0, instance:twitter.PerformLoginAndTweetTest@78ffe6dc]" name="closeWebDriver" is-config="true" duration-ms="747" started-at="2019-02-04T13:40:11Z" finished-at="2019-02-04T13:40:11Z">
+        <test-method status="PASS" signature="closeWebDriver(org.testng.ITestResult)[pri:0, instance:twitter.PerformLoginAndTweetTest@76f2bbc1]" name="closeWebDriver" is-config="true" duration-ms="721" started-at="2019-02-18T10:50:04Z" finished-at="2019-02-18T10:50:05Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=performLoginAndWriteTweet status=SUCCESS method=PerformLoginAndTweetTest.performLoginAndWriteTweet(org.openqa.selenium.WebDriver)[pri:0, instance:twitter.PerformLoginAndTweetTest@78ffe6dc] output=1549287603649 INFO    TEST STARTED: performLoginAndWriteTweet]]]>
+                <![CDATA[[TestResult name=performLoginAndWriteTweet status=SUCCESS method=PerformLoginAndTweetTest.performLoginAndWriteTweet(org.openqa.selenium.WebDriver)[pri:0, instance:twitter.PerformLoginAndTweetTest@76f2bbc1] output=1550486996272 INFO    TEST STARTED: performLoginAndWriteTweet]]]>
               </value>
             </param>
           </params>
           <reporter-output>
             <line>
-              <![CDATA[1549287611029 INFO    CLOSING CHROMEDRIVER: performLoginAndWriteTweet]]>
+              <![CDATA[1550487004840 INFO    CLOSING CHROMEDRIVER: performLoginAndWriteTweet]]>
             </line>
           </reporter-output>
         </test-method> <!-- closeWebDriver -->
-        <test-method status="PASS" signature="closeSuite()[pri:0, instance:twitter.PerformLoginAndTweetTest@78ffe6dc]" name="closeSuite" is-config="true" duration-ms="0" started-at="2019-02-04T13:40:11Z" finished-at="2019-02-04T13:40:11Z">
+        <test-method status="PASS" signature="closeSuite()[pri:0, instance:twitter.PerformLoginAndTweetTest@76f2bbc1]" name="closeSuite" is-config="true" duration-ms="0" started-at="2019-02-18T10:50:05Z" finished-at="2019-02-18T10:50:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeSuite -->
